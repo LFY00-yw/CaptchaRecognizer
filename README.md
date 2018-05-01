@@ -1,6 +1,6 @@
 # CaptchaRecognizer
+[![Build Status](https://travis-ci.org/clouduan/CaptchaRecognizer.svg?branch=master)](https://travis-ci.org/clouduan/CaptchaRecognizer)
 ![language-python](https://img.shields.io/badge/language-python-blue.svg)
-![accuracy-55](https://img.shields.io/badge/accuracy-55_percent-brightgreen.svg)
 [![license](https://img.shields.io/github/license/clouduan/CaptchaRecognizer.svg)](https://github.com/clouduan/CaptchaRecognizer/blob/master/LICENSE)
 
 A naive captcha-recognition program
