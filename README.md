@@ -10,19 +10,19 @@ The current accuracy is below:
 
 ![ratio](./Ratios.png)
 
-This chart shows that (24,24) is the best parameter to calculate hash value. Though the largest accuracy is only 55%...
+This chart shows that (24,24) is the best parameter to calculate hash value(You may see details in the code). Though the largest accuracy is only 55%...
 
 # Q&A
 
-Neural Network performs much better than PHA. 
+Obviously neural network performs much better than PHA. 
 
-SO what did I made this for? I made this just for FUN~ 
+SO what did I made this for? I made this just for __FUN__~  Furthermore, that's why this readme file is written in English 🙈 
 
 If any other questions, you can refer to [Issues](https://github.com/clouduan/CaptchaRecognizer/issues). 
 
 # More details
 
-If you want to see more about PHA, you can refer to these blogposts:
+Want to see more about PHA? You can refer to these blogposts:
 
 http://www.hackerfactor.com/blog/index.php?/archives/432-Looks-Like-It.html
 
